@@ -1,0 +1,7 @@
+.gitignore
+.mypy_cache
+
+get_images/get_images/__pycache__
+get_images/get_images/spiders/__pycache__
+
+get_images/data.csv
